@@ -2,12 +2,6 @@
 
 FileComparer is a tool that compares the contents of files
 
-## Build
-
-```shell
-
-```
-
 ## Run
 
 ### CSV
